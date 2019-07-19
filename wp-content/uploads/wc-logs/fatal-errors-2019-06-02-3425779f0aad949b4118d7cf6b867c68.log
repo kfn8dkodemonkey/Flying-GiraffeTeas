@@ -1,0 +1,4 @@
+2019-06-02T20:00:26+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 35 bytes) in /home/content/59/8005659/html/Testing/wp-content/plugins/php-compatibility-checker/php52/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php on line 1845
+
+2019-06-02T20:02:19+00:00 CRITICAL Maximum execution time of 55 seconds exceeded in /home/content/59/8005659/html/Testing/wp-content/plugins/php-compatibility-checker/php52/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php on line 3341
+
